@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+networkx
+torch
+torch-geometric
+scikit-learn
+python-louvain
+umap-learn
+matplotlib
+seaborn
+plotly
+Pillow
