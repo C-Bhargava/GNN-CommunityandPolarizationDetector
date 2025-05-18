@@ -11,3 +11,6 @@ It visualizes hidden patterns, detects polarization, and identifies influential 
 - 🧮 Compute and display polarization score based on community edges
 - 🔦 Search and highlight individual nodes to reveal metadata
 - 📈 View cluster size summaries and export results as CSV
+
+
+This can be accessed at : https://gnn-communityandpolarizationdetector.streamlit.app/
